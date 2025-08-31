@@ -20,3 +20,4 @@ windpowerlib>=0.2.0
 pyarrow>=16.1.0
 geopy>=2.4
 pvlib>=0.13.0
+matplotlib>=3.10.3
